@@ -1,0 +1,16 @@
+
+
+# Archivos y Carpetas de Salida y Compilación
+*.class
+out/
+bin/
+
+# Configuraciones del IDE (VS Code)
+.vscode/
+
+# Archivos del Sistema Operativo
+.DS_Store
+Thumbs.db
+
+# Credenciales o Variables de Entorno (si las añades más tarde)
+.env
